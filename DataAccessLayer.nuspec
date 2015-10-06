@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Simple-SQL-DataAccess</id>
+    <version>$version$</version>
+    <title>Simple-SQL-DataAccess</title>
+    <authors>Joseph Cutrono</authors>
+    <owners>Joseph Cutrono</owners>
+    <licenseUrl>https://github.com/jcutrono/Simple-SQL-DataAccess/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/jcutrono/Simple-SQL-DataAccess</projectUrl>
+    <iconUrl>https://github.com/jcutrono/Simple-SQL-DataAccess/blob/master/j_black.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple methods to encapsulate ad-hoc SQL. Includes SQL paging</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <tags>sql sqlpaging paging</tags>
+  </metadata>
+  <files>
+	<file src="DataAccessLayer\bin\$configuration$\DataAccessLayer.dll" target="" />
+  </files>
+</package>

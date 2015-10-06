@@ -1,0 +1,10 @@
+/.vs
+
+*.exe
+*.suo
+*.log
+*.nupkg
+bin/
+obj/
+packages/
+build/
